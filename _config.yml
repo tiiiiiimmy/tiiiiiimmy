@@ -1,0 +1,7 @@
+title: My Personal Website
+description: This is my personal blog and portfolio
+url: "https://tiiiiiimmy.github.io/"
+baseurl: "" # Use "" if your site is not in a subfolder
+github_repo: "https://github.com/tiiiiiimmy/tiiiiiimmy.github.io/git"
+author: Your Name
+theme: jekyll-theme-slate
